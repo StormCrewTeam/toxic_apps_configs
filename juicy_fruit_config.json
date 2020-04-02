@@ -1,4 +1,4 @@
 {
-  "locales": [ "RU", "KZ", "UA"],
-  "isGood": false
+  "locales": [ "RU", "KZ", "UA", "US"],
+  "isGood": true
 }
